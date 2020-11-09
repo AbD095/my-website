@@ -1,1 +1,9 @@
+.repas{background-color: gray;
+	border: 1.5px solid black;
+width: 30%; display: inline-block;
+position: relative;}
+h2{border: 1px solid black;
+	width: 30%;text-align: center;
+}
+#tajine{background-color: maroon; }
 
