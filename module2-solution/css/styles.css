@@ -1,9 +1,12 @@
-.repas{background-color: gray;
-	border: 1.5px solid black;
-width: 30%; display: inline-block;
-position: relative;}
+section{background-color: gray;margin-right: 15px;
+	border: 2px solid black;
+width: 30%;display: inline-block;}
 h2{border: 1px solid black;
 	width: 30%;text-align: center;
+	margin-top: 0px;float: right;
 }
-#tajine{background-color: maroon; }
-
+h1{text-align: center;}
+p{float: left;font-weight: bold;padding-bottom: 0px;}
+h2#tajine{background-color: #D98880;}
+h2#sandwich{background-color: #F5B041;}
+h2#chicken{background-color: #F5CBA7;}
